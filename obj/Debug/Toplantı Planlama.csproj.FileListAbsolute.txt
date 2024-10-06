@@ -1,0 +1,51 @@
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form1.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form2.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form3.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form4.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form5.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Properties.Resources.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.UserControl1.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.UserControlGunler.resources
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\Toplantı Planlama.exe.config
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\Toplantı Planlama.exe
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\Toplantı Planlama.pdb
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\System.Buffers.dll
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\System.ValueTuple.dll
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Barış\Desktop\Toplantı Planlama\bin\Debug\System.ValueTuple.xml
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.CopyComplete
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.exe
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı Planlama.pdb
+C:\Users\Barış\Desktop\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form6.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\Toplantı Planlama.exe.config
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\Toplantı Planlama.exe
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\Toplantı Planlama.pdb
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\System.Buffers.dll
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\System.ValueTuple.dll
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\System.ValueTuple.xml
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form1.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form2.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form3.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form4.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form5.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Form6.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.Properties.Resources.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.UserControl1.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı_Planlama.UserControlGunler.resources
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı Planlama.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı.BCF80BAA.Up2Date
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı Planlama.exe
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\obj\Debug\Toplantı Planlama.pdb
+C:\Users\Barış\Desktop\Toplantı Planlama proje\Toplantı Planlama\bin\Debug\FontAwesome.Sharp.dll
